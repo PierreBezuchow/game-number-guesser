@@ -9,3 +9,6 @@ Game functions:
 - Notify player of guesses remaining
 - Notify player of correct answer if loose
 - Let player choose to play again
+
+### Preview
+![alt-text](https://github.com/PierreBezuchow/game-number-guesser/blob/master/img/number-guesser-preview.png)
